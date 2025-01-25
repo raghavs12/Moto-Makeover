@@ -54,6 +54,11 @@ Just run `moto_makeover.exe` located in the `App/build` folder.
 
 This project is developed as a part of the **Capstone Project** at **Thapar Institute of Engineering and Technology, Patiala**. All rights reserved.
 
+## Demonstration Video
+
+You can watch a demonstration of Moto-Makeover at the following link:
+[Watch Demo Video](https://github.com/raghavs12/Moto-Makeover/blob/main/Moto-Makeover%20Demonstration/video2292119003.mp4)
+
 ## Download
 
 You can access the final build of all cars at the following link:
