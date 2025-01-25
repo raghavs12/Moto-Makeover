@@ -32,11 +32,11 @@ Just run `moto_makeover.exe` located in the `App/build` folder.
 
 ## Project Contributors
 
-- **Diwi Malik** (102116028)
 - **Raghav Sharma** (102116102)
 - **Sanchit Raj** (102116112)
 - **Kushal Srivastava** (102116097)
 - **Samridhi Wadhwa** (102116060)
+- **Diwi Malik** (102116028)
 
 ## Mentors
 
