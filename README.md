@@ -28,7 +28,7 @@ Just run `moto_makeover.exe` located in the `App/build` folder.
 - **Customizing the Vehicle**:
   - **Exterior**: Change the paint, headlights, tires, taillights, roof rack, indicators, and spoilers.
   - **Interior**: Modify the dashboard, seats, steering wheel, roof, door, and armrest.
-- **Saving and Downloading**: Export the final design for offline viewing or sharing.
+- **Saving and Downloading**: Export the final design for offline viewing or sharing. (All screenshot would be saved in this location: C:\Users\LENOVO\AppData\LocalLow\Moto-Makeover)
 
 ## Project Contributors
 
